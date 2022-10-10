@@ -1,0 +1,7 @@
+Créer un nouveau repertoire GIt
+Ajouter un fichier et le commiter
+Modifier le fichier et le commiter
+Créer un deuxième fichier et le commiter
+Créer un troisième fichier et le mettre dans un gitignore
+
+Utiliser le git status a chaque étapes pour vois ce qu'il se passe.
