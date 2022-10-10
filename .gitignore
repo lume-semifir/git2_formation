@@ -1,0 +1,11 @@
+# Commentaire
+git.md
+
+# Fichir sensible
+.env
+
+# Ignore tout les fichier .txt dans dossier src
+src/*.txt
+
+# Ignore tout les fichier .txt dans dossier src et ses sous dossier
+src/**/*.txt
