@@ -1,0 +1,8 @@
+Créer un nouveau repository Git
+● Ajouter un fichier et le commiter
+● Ajouter un deuxième fichier et le commiter
+● Vérifier l’historique (on doit avoir 2 commits)
+● Faire des modifications sur le deuxième fichier et le
+commiter
+● Annuler les modifications du dernier commit
+● Vérifier l’historique (on doit avoir 2 commits)
