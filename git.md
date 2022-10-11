@@ -110,6 +110,17 @@
 ## Pour cloner un projet via un dépôt distant ( GitHub, GitLab ...)
 - git clone <Lien du dépôt>
 
+## Envoyer du code sur un dépot distant
+- git push -u origin <nomDeBranch>
+-- -u = Pour definir de faire un lien entre la branche et la branche du dépot distant
+-- origin = dépôt distant
+
+## Récupérer le code distant
+- git fetch
+- git merge 
+### ou
+- git pull
+
 
 
 
